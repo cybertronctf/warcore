@@ -1,1 +1,1 @@
-print("warcore INSERT")
+print("warcore UPDATE")
